@@ -14,15 +14,5 @@ public class main {
 
 
         EmployeesList test = new EmployeesList(GlobalCommonVaraibles.employee_data_path);
-        /*
-        Map<Sector, Map<Route, Long>> res;
-
-        res = test.getCounterSectorRoute();
-
-        System.out.println(res.toString());
-        */
-
-
-
     }
 }
