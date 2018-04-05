@@ -1,21 +1,22 @@
 # Learn Functional Programming in Java
 This application represents my first functional programming in Java
 
-## The application is designed to work with the following files :
+## The application is designed to work with the following files
   1) data.txt
   2) Sector.txt
   3) Route.txt
- 
- 1) data.txt :
+
+## Details
+ ### 1) data.txt
  Represents the personal data of employees.
  
- 2) Sector.txt
+ ### 2) Sector.txt
  Each employee must be assigned to a Sector. There are 2 sectors, Sector1 and Sector2.
  
- 3) Route.txt :
+ ### 3) Route.txt
  Represents the routes. Each employee must be assigned to a route. Each sector, contains 3 routes, route1, route2 and route 3.
  
- ## Purpose:
+ ## Purpos
  The data is not complete and in some cases has some repeated data or invalid data. So we can distinct the following cases:
   1) Repeated employee's ID.
   2) Repeated employee's Email.
