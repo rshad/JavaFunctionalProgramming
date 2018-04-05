@@ -1,5 +1,5 @@
 # Learn Functional Programming in Java
-This application represents my first functional programming in Java
+This application represents my first functional programming in Java. In some cases I don't use functional Java to see how things are done in different aproaches (Functional and Non-Functional) Java. Also it tried to employe Thread's concept to get parallel execution in case if that's possible.
 
 ## The application is designed to work with the following files
   1) data.txt
