@@ -29,9 +29,9 @@ This application represents my first functional programming in Java
  some tests, using Junit.
  
  ## Project Directory's Structure:
- /src: contains the source files.
- /test: contains the test files - Usin Junit.
- /data: contains the data text files.
+ - /src: contains the source files.
+ - /test: contains the test files - Usin Junit.
+ - /data: contains the data text files.
  
  
   
