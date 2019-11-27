@@ -16,7 +16,7 @@ This application represents my first functional programming in Java. In some cas
  ### 3) Route.txt
  Represents the routes. Each employee must be assigned to a route. Each sector, contains 3 routes, route1, route2 and route 3.
  
- ## Purpos
+ ## Purpose
  The data is not complete and in some cases has some repeated data or invalid data. So we can distinct the following cases:
   1) Repeated employee's ID.
   2) Repeated employee's Email.
